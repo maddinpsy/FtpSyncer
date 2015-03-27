@@ -20,8 +20,10 @@ A Windows SFTP Client with Explorer integration. Keeps a lokal folder syncronize
 
 
 ###License
-FTPSyncer is licensed under the [General Public License v2][gpl]. See [LICENSE][license] for the full text.
+FTPSyncer is licensed under the [General Public License v2][gpl]. See [LICENSE](LICENSE) for the full text.
 
+###Contact and Support
+If you have any questions related to the project feel free to send me an [email](mailto:maddinpsycho@gmail.com).
 
 ###Links
 - Similar Project
@@ -32,7 +34,6 @@ FTPSyncer is licensed under the [General Public License v2][gpl]. See [LICENSE][
 
 
 [gpl]: http://www.tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)
-[license]: https://github.com/maddinpsy/FtpSyncer/blob/master/LICENSE
 [ftpbox]:https://github.com/FTPbox/FTPbox
 [sharpssh]:http://sourceforge.net/projects/sharpssh/
 [objectlistview]:http://objectlistview.sourceforge.net/cs/index.html
